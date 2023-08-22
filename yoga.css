@@ -1,0 +1,121 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.Home-page-bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/yoga-bg.png");
+    height: 800px;
+    background-size: cover;
+}
+
+.main-heading {
+    font-size: 30px;
+    margin: 60px;
+    color: #132d84;
+    font-weight: bold;
+    padding: 5px;
+
+}
+
+.Home-page-girl-image {
+    height: 300px;
+    width: 300px;
+    margin: 70px;
+}
+
+.paragraph {
+    text-align: center;
+    font-size: 20px;
+}
+
+.button {
+    width: 100px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: #132d84;
+    color: white;
+}
+
+.Types-of-yoga-page-container {
+    background-color: #ffedcd;
+
+}
+
+.Types-of-yoga-image {
+    height: 300px;
+    width: 500px;
+    margin: 20px;
+}
+
+.Acro-yoga-page {
+    background-color: #fad693;
+    border-radius: 10px;
+    height: 150px;
+    width: 500px;
+    margin: 15px;
+}
+
+.acro-image {
+    height: 150px;
+}
+
+.Acro-yoga-heading {
+    font-size: 30px;
+}
+
+
+.Vinyasa-yoga-page {
+    background-color: #fad693;
+    border-radius: 10px;
+    height: 150px;
+    width: 500px;
+    margin: 15px;
+}
+
+.vinyasa-image {
+    height: 150px;
+}
+
+.Vinyasa-yoga-heading {
+    font-size: 30px;
+}
+
+
+.Hatha-yoga-page {
+    background-color: #fad693;
+    border-radius: 10px;
+    height: 150px;
+    width: 500px;
+    margin: 15px;
+}
+
+.Hatha-image {
+    height: 150px;
+}
+
+.Hatha-yoga-heading {
+    font-size: 30px;
+}
+
+
+
+.kundalini-yoga-page {
+    background-color: #fad693;
+    border-radius: 10px;
+    height: 150px;
+    width: 500px;
+    margin: 15px;
+}
+
+.Kundalini-image {
+    height: 150px;
+}
+
+.Kundalini-yoga-heading {
+    font-size: 30px;
+}
+
+.button {
+    border-radius: 5px;
+    width: 100px;
+    background-color: #132d84;
+    color: white;
+}
